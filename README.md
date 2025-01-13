@@ -1,6 +1,6 @@
 # Secure the Vault
 
-You've been hired to secure a vault! It's up to you to ensure that the client's family heirlooms is stored safely. In this workshop, you'll have to write JavaScript to correctly set the codes for the vault's combination lock.
+You have been hired to secure a vault! You must ensure that the client's family heirlooms are stored safely. In this workshop, you will write JavaScript to correctly set the codes for the vault's combination lock.
 
 ## Getting Started
 
